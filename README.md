@@ -2,6 +2,7 @@ This is our readme :)
 
 Project team members:
 Greg James
+Tyler Curnow
 
 edited readme on main
 Michael's Edit
